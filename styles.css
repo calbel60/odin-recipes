@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 0% 30%;
+}
+
+h1 {
+    font-size: 60px;
+    background-color: aliceblue;
+    color: blueviolet;
+}
+
+ul, ol {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    color: hsl(240, 49%, 45%);
+    border-color: rgb(24, 64, 116);
+}
