@@ -5,7 +5,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: rgb(69, 157, 228);
+    background-color: bisque;
 }
 
 .content {
@@ -16,11 +16,11 @@ body {
     border:2px rgb(24, 64, 116) solid;
 }
 
-.image {
+.middle {
     margin-bottom: 8px;
     padding: 8px;
     background-color: aliceblue;
-
+    padding-left: 30px
 }
 
 h1 {
@@ -37,4 +37,16 @@ ul, ol{
     color: hsl(240, 49%, 45%);
     padding: 30px;
     margin: 0
+}
+
+.link {
+    background-color: aliceblue;
+    color: cyan ;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.box {
+    padding: 8px;
+    border: 2px solid black
 }
